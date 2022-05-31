@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "fastload",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "",
   "exports": "./index.js",
   "scripts": {
