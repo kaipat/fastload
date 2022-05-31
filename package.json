@@ -1,8 +1,9 @@
 {
   "type": "module",
-  "name": "download",
+  "name": "simpleload",
   "version": "0.0.1",
   "description": "",
+  "exports": "./index.js",
   "scripts": {
     "test": "node ./test.js"
   },
@@ -11,8 +12,5 @@
   "dependencies": {
     "got": "^12.1.0"
   },
-  "bugs": {
-    "url": ""
-  },
-  "homepage": ""
+  "homepage": "https://github.com/kaipat/simpleload/blob/main/README.md"
 }
