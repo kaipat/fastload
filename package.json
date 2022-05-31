@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "download",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "author": "kaipat",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.1.0"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
